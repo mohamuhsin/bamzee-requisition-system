@@ -20,7 +20,7 @@ This is a Requisition System for bamzee Engineering Company (www.bamzeeng.com), 
 3. It will help project managers track how much funds used in their projects.
 
 # Technologies Used
-1. React.js - For Front End Development
-2. Node.js, Express.js - For backend development
-3. MongoDB - For database management
-5. Next.js - For building full stack applications
+1. React.js - For Front End Development.
+2. Node.js, Express.js - For backend development.
+3. MongoDB - For database management.
+5. Next.js - For building full stack applications.
