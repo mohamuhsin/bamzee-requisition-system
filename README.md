@@ -2,6 +2,8 @@
 
 This is a Requisition System for bamzee Engineering Company (www.bamzeeng.com), built with React, Node.js, Express, MongoDB and Next.js.
 
+The system can be accessed at https://request.bamzeeng.com
+
 # How it Works
 1. Employee from the company creates his/her account.
 2. System Administrator approves the details of the employee.
