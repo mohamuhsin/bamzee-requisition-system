@@ -17,4 +17,4 @@ This is a Requisition System for bamzee Engineering Company (www.bamzeeng.com), 
 # The problems the system will be solving
 1. It will eradicate the use of paper for requisitions.
 2. it will help in proper accountability at the end of the year.
-3. It will help project managers track the funds used in their projects.
+3. It will help project managers track how much funds used in their projects.
