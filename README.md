@@ -1,4 +1,4 @@
-# Bamzee-Requisition-Platform
+# Bamzee-Requisition-System
 
 This is a Requisition System for bamzee Engineering Company (www.bamzeeng.com), built with React, Node.js, Express, MongoDB and Next.js.
 
