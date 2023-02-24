@@ -27,3 +27,5 @@ The system can be accessed at https://request.bamzeeng.com
 3. MongoDB - For database management.
 4. CSS - For styling the application.
 5. Next.js - For building full stack applications.
+
+For any inquiries feel free to contact me at moha@iventics.com
